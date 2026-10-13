@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+body {
+  background-color: #aac3db;
+  color: black;
+}
+
+h1 {
+  color: black;
+}
+
+.blue {
+  color: blue;
+}
+
+#title {
+  color: red;
+}
+
+p {
+  line-height: 1.6px;
+}
+
+.card {
+  border: 1px solid #d3dee6;
+  padding: 20px;
+}
+#intro {
+  border-top: 1.6px solid;
+}
+nav > a {
+  text-decoration: none;
+}
+a:hover {
+  color: #0b6fb8;
+}
