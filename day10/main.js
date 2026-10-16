@@ -25,3 +25,19 @@ console.log("도시 : ", city);
 
 const birthYear = 2002;
 console.log("태어난 해 : ", birthYear)
+
+let a = "안녕하세요\n오늘은 날씨가 좋네요\n배도 부르고요";
+let b = `안녕하세요
+오늘은 날씨가 좋네요
+배도 부르고요`;
+
+let isMember = true;
+let hasCoupon = false;
+console.log(typeof isMember);
+console.log("회원인가요? ", isMember);
+console.log("쿠본이 있나요? ", hasCoupon);
+console.log(10 < 20);
+console.log(10 > 20);
+
+let isPass = 80 > 60;
+console.log("합격했나요?", isPass);
