@@ -18,3 +18,10 @@ score = 90;
 console.log(score);
 
 let lever = 1;
+
+let city = "서울";
+city = "부산";
+console.log("도시 : ", city);
+
+const birthYear = 2002;
+console.log("태어난 해 : ", birthYear)
